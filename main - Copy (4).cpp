@@ -36,9 +36,6 @@ class printMe{
     (((my_age/2)+7 >=crush_age)&& cout<<"This is your type"<<endl || cout<<"This is not your type"<<endl)
     ;
   }
-  void prin(){
-      cout<<7;
-  }
   protected:
   //
 }obj;
